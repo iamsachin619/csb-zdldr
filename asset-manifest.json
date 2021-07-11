@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://iamsachin619.github.io/csb-zdldr/static/css/main.952bd65e.chunk.css",
+    "main.js": "https://iamsachin619.github.io/csb-zdldr/static/js/main.36ab196a.chunk.js",
+    "main.js.map": "https://iamsachin619.github.io/csb-zdldr/static/js/main.36ab196a.chunk.js.map",
+    "runtime-main.js": "https://iamsachin619.github.io/csb-zdldr/static/js/runtime-main.46d9f0b0.js",
+    "runtime-main.js.map": "https://iamsachin619.github.io/csb-zdldr/static/js/runtime-main.46d9f0b0.js.map",
+    "static/css/2.dc639290.chunk.css": "https://iamsachin619.github.io/csb-zdldr/static/css/2.dc639290.chunk.css",
+    "static/js/2.94fa776d.chunk.js": "https://iamsachin619.github.io/csb-zdldr/static/js/2.94fa776d.chunk.js",
+    "static/js/2.94fa776d.chunk.js.map": "https://iamsachin619.github.io/csb-zdldr/static/js/2.94fa776d.chunk.js.map",
+    "index.html": "https://iamsachin619.github.io/csb-zdldr/index.html",
+    "static/css/2.dc639290.chunk.css.map": "https://iamsachin619.github.io/csb-zdldr/static/css/2.dc639290.chunk.css.map",
+    "static/css/main.952bd65e.chunk.css.map": "https://iamsachin619.github.io/csb-zdldr/static/css/main.952bd65e.chunk.css.map",
+    "static/js/2.94fa776d.chunk.js.LICENSE.txt": "https://iamsachin619.github.io/csb-zdldr/static/js/2.94fa776d.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "https://iamsachin619.github.io/csb-zdldr/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46d9f0b0.js",
+    "static/css/2.dc639290.chunk.css",
+    "static/js/2.94fa776d.chunk.js",
+    "static/css/main.952bd65e.chunk.css",
+    "static/js/main.36ab196a.chunk.js"
+  ]
+}
